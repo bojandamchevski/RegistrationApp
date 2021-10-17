@@ -1,0 +1,14 @@
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\bin\Debug\netstandard2.0\RegistrationApp.deps.json
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\bin\Debug\netstandard2.0\RegistrationApp.dll
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\bin\Debug\netstandard2.0\ref\RegistrationApp.dll
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\bin\Debug\netstandard2.0\RegistrationApp.pdb
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\RegistrationApp.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\RegistrationApp.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\RegistrationApp.AssemblyInfo.cs
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\RegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\RegistrationApp.dll
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\ref\RegistrationApp.dll
+C:\Users\Com\Desktop\RegisterPage-Xamarin-Forms\RegistrationApp\RegistrationApp\RegistrationApp\obj\Debug\netstandard2.0\RegistrationApp.pdb
